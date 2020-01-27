@@ -4,12 +4,17 @@ NOW:
 2. Add favicon of roger
 3. Add 'cards' for news stories with more details to home page
 4. Flesh out 'About' page
-5. Add alt text to photos page. Maybe look into reducing the images' resolution for faster load times
+5. Add alt text to photos page. Look into reducing the images' resolution for faster load times
 6. Fix scrollbar issue. There should only be one scrollbar for the site, on the content pane
 7. Make sure everything looks good in different browsers
 
 LATER:
 
-- Deploy site to the public
-- Add links to our site on social media pages
-- Test site on mobile
+1. Refactor code and cut cruft. Add tslint
+2. Deploy site to the public
+3. Add links to our site on social media pages
+4. Test site on mobile
+
+FUTURE WORK:
+
+1. Add a game to the site?
