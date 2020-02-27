@@ -32,7 +32,7 @@ const appRoutes: Routes = [
     AppRoutingModule,
     RouterModule.forRoot(
       appRoutes,
-      {enableTracing: true} //todo: disable
+      {enableTracing: false}
     )
   ],
   providers: [],
